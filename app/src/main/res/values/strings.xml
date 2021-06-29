@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyKontak</string>
+    <string name="kontak_saya">Kontak Saya</string>
+    <string name="add">Add</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_kontak">Data Kontak</string>
+    <string name="name">Name</string>
+    <string name="telepon">Telepon</string>
+    <string name="nama">Nama</string>
+</resources>
